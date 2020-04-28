@@ -1,0 +1,26 @@
+DOCTYPE html>
+<!-- www sivu alkaa aina tagilla -->
+<html>
+<head>
+<meta charset="utf-8">
+<title>Tietokoneen osat</title>
+</head>
+<body>
+
+<h1>näppäimistö</h1>
+<ul>
+<li> suomalainen<li>
+<Li>qwerty<li>
+<ul>
+
+<img src="nappis.jpg" alt="Näppäimistö"></a><br><br>
+
+
+
+<a href="index.html">etusivulle</a><br>
+
+
+</a>
+
+
+</a>
